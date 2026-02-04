@@ -150,6 +150,7 @@ if uploaded_file is not None:
                     st.write(f"• {s}")
                 st.markdown("""
         **Recommended Actions**
+        
         • Consult a gynecologist / endocrinologist  
         • Track menstrual irregularities  
         • Improve diet and physical activity  
